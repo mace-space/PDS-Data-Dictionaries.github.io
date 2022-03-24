@@ -50,3 +50,5 @@ _site/
 # Sphinx stuff
 docs/build/
 
+# Virtual env stuff
+pds-data-dict-env/
